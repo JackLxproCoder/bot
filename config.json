@@ -22,14 +22,14 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "Happier Bot",
+  "PREFIX": "-",
   "ADMINBOT": [
     "61550348197141",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
-    "Title": "BotPack",
+    "Title": "LxTeam",
     "Theme": "Blue",
     "Admin": "JackLx",
     "Setup": {
